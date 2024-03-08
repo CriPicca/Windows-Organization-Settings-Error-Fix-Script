@@ -8,8 +8,8 @@ The script targets and removes problematic registry keys that cause the "Some of
 
 ## Usage
 
-1. **Download:** Obtain the "OrganizationSettingsErrorFix.ps1" script from this repository.
-2. **Run as Administrator:** Right-click on the "OrganizationSettingsErrorFix.ps1" file and select "Run as administrator". Administrator privileges are necessary to modify the registry.
+1. **Download:** Obtain the "WindowsOrganizationSettingsErrorFix.ps1" script from this repository.
+2. **Run as Administrator:** Right-click on the "WindowsOrganizationSettingsErrorFix.ps1" file and select "Run as administrator". Administrator privileges are necessary to modify the registry.
 3. **Follow Instructions:** Execute the script and follow the instructions provided to complete the process.
 4. **View Output:** The script will display messages indicating the success or failure of the registry key removal.
 
